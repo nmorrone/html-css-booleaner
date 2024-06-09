@@ -7,6 +7,7 @@ body {
     background-color: #000;
     margin-bottom: 5%;
     padding: 20px;
+    margin-bottom: 2%;
 }
 
 
@@ -51,4 +52,19 @@ a:hover {
 
 table {
     text-align: left;
+}
+
+.table-heading {
+    background-color: #89a7ff;
+    color: #fff;
+}
+
+.dark-blue {
+    background-color: #c9d2ff;
+    color: #000;
+}
+
+.light-blue {
+    background-color: #e4e8ff;
+    color: #000;
 }
