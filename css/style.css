@@ -68,3 +68,12 @@ table {
     background-color: #e4e8ff;
     color: #000;
 }
+
+#bottom-page {
+    text-color: white;
+    background-color: black;
+    height: 50px;
+    margin: auto;
+    text-align: center;
+    padding: 30px;
+}
